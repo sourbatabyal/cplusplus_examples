@@ -4,7 +4,12 @@ Simple C++ Codes with use cases.
 # Examples
 
     1. Smart Pointers in C++
-    2. Stacks (Data Structure)
+    2. Queue (Data Structure)
+
+# TO Do
+
+    1. https://www.geeksforgeeks.org/different-types-of-queues-and-its-applications/
+    2. Breadth First Search
 
 # How to Build
 
