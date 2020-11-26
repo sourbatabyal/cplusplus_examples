@@ -1,3 +1,5 @@
 cmake_minimum_required(VERSION 3.14)
 project(tutorial)
+add_subdirectory(poco)
+add_subdirectory(trace)
 add_subdirectory(smart_pointers)
