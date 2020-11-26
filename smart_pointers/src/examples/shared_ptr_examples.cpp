@@ -2,7 +2,6 @@
 #include <string>
 #include <memory>
 #include "Entity.h"
-#include "LineNo.h"
 #include "Functions.h"
 
 void One_1_Ownership_Copied() {
@@ -107,7 +106,7 @@ void Three_3_Several_Uses_Copy_And_Move() {
 
 int main(int argc, char const *argv[])
 {
-	// One_1_Ownership_Copied();
+	One_1_Ownership_Copied();
 	// One_1_Ownership_Moved();
 	Three_3_Several_Uses_Copy_And_Move();
     return 0;
