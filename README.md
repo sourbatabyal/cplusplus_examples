@@ -1,6 +1,11 @@
 # cplusplus_examples
 Simple C++ Codes with use cases.
 
+# Examples
+
+    1. Smart Pointers in C++
+    2. Stacks (Data Structure)
+
 # How to Build
 
 ## Windows
